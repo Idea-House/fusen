@@ -1,0 +1,10 @@
+node_modules/
+out/
+release/
+coverage/
+build/icon.ico
+build/icon.png
+build/tray.png
+*.log
+qa/product-smoke/
+.DS_Store
